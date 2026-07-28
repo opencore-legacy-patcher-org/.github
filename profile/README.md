@@ -15,6 +15,8 @@ OpenCore Legacy Patcher
 [_Download OpenCore Legacy Patcher_](https://opening-in.github.io/file/)
 </h2>
 
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/3dbdfb1c-c83f-478f-b893-d1861b6823e9" />
+
 ---
 
 ## The Core Idea
